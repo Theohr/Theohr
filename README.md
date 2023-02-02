@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Theohr
-- 👀 I’m interested in Software Development, Artificial Intelligence, Game Development.
-- 🌱 I’m currently learning Vue.js in Udemy.
-- 💞️ I’m looking to collaborate on different Front-End Applications.
+- 👀 I’m interested in Software Development, Artificial Intelligence.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on different Front/Back-End Applications.
 - 📫 How to reach me: theo.herodotou@cytanet.com.cy
 
 <!---
